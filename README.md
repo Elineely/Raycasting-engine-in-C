@@ -1,8 +1,8 @@
 # 🎮 그래픽스: 레이캐스팅 엔진(Raycastiong engine) 만들기  / myRaycaster
 <p align="center">
-![IMG_8510](https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/541a461b-5b0c-4580-8f0e-16ba7439f995)
-![IMG_8509](https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/3d34a48b-c5f1-4f84-ae05-dce534d9572a)
-![IMG_8499](https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/de90c4f3-e122-4aac-a0b9-0f65f945b506)
+<img width="1509" alt="스크린샷 2024-01-30 오후 7 11 14" src="https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/541a461b-5b0c-4580-8f0e-16ba7439f995">
+<img width="1509" alt="스크린샷 2024-01-30 오후 7 11 14" src="https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/3d34a48b-c5f1-4f84-ae05-dce534d9572a">
+<img width="1509" alt="스크린샷 2024-01-30 오후 7 11 14" src="https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/de90c4f3-e122-4aac-a0b9-0f65f945b506>
 <img width="1509" alt="스크린샷 2024-01-30 오후 7 11 14" src="https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/32482b52-c870-43b8-9e41-923914cf7447">
 
 
@@ -17,10 +17,11 @@ myRaycaster는 C언어와 학습용 그래픽 모듈을 사용해서 만든 레�
 2022.08 ~ 2022.09 (약 1개월)
 
 ## ⚙️기능 및 특징
+- 3차원 원금감 렌더링
+- 사용자 입력에 따른 시점 이동 및 위치 변경
+- 사용자의 현재 위치 우측 하단 지도 표시
 - 2차원 맵의 유효성 검증
 - 사용자 입력 xpm 이미지의 유효성 검증 및 적용
-- 3차원 원금감 렌더링
-- 사용자 입력에 따른 시점 이동 및 위치 변경 
 
 ## 🦿작동방법
 1. repository를 git clone 합니다.
