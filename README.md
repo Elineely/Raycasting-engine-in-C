@@ -1,4 +1,4 @@
-# 🎮 그래픽스: 레이캐스팅 엔진(Raycastiong engine) 만들기  / myRaycaster
+<img width="956" alt="스크린샷 2024-01-30 오후 5 42 25" src="https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/d5396e93-636d-475c-825f-0062595edd59"># 🎮 그래픽스: 레이캐스팅 엔진(Raycastiong engine) 만들기  / myRaycaster
 <p align="center">
 <img width="1509" alt="스크린샷 2024-01-30 오후 7 11 14" src="https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/541a461b-5b0c-4580-8f0e-16ba7439f995">
 <img width="1509" alt="스크린샷 2024-01-30 오후 7 11 14" src="https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/3d34a48b-c5f1-4f84-ae05-dce534d9572a">
@@ -52,3 +52,4 @@ make
 C,F는 천장과 바닥에 적용할 색의 RGB 값이며 0~255 사이값이 ',' 기호로 구분합니다.
   </p>
 2. 적용하고 싶은 이미지가 따로 있을 시, .xpm 이미지로 변경해야합니다.
+<img width="956" alt="스크린샷 2024-01-30 오후 5 42 25" src="https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/dc54fa07-a7b0-4ed3-8ab2-6af569987f88">
