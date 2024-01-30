@@ -1,9 +1,9 @@
-<img width="956" alt="스크린샷 2024-01-30 오후 5 42 25" src="https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/d5396e93-636d-475c-825f-0062595edd59"># 🎮 그래픽스: 레이캐스팅 엔진(Raycastiong engine) 만들기  / myRaycaster
+# 🎮 그래픽스: 레이캐스팅 엔진(Raycastiong engine) 만들기  / myRaycaster
 <p align="center">
 <img width="1509" alt="스크린샷 2024-01-30 오후 7 11 14" src="https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/541a461b-5b0c-4580-8f0e-16ba7439f995">
 <img width="1509" alt="스크린샷 2024-01-30 오후 7 11 14" src="https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/3d34a48b-c5f1-4f84-ae05-dce534d9572a">
 <img width="1509" alt="스크린샷 2024-01-30 오후 7 11 14" src="https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/de90c4f3-e122-4aac-a0b9-0f65f945b506">
-<img width="1509" alt="스크린샷 2024-01-30 오후 7 11 14" src="https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/32482b52-c870-43b8-9e41-923914cf7447">
+<img width="1509" alt="스크린샷 2024-01-30 오후 7 11 14" src="https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/32482b52-c870-43b8-9e41-923914cf7447">
 
 
 </p>
@@ -46,10 +46,12 @@ make
 ### 선행 조건
 1. 실행 파일에 적용하려는 맵정보는 *.cub 로 명명 해야하며, 다음과 같은 형식을 따릅니다.
    <p align="center">
-     <img width="818" alt="스크린샷 2024-01-30 오후 5 42 44" src="https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/5680eda8-d173-4438-a516-c2ffe5660033">
+     <img width="818" alt="스크린샷 2024-01-30 오후 5 42 44" src="https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/5680eda8-d173-4438-a516-c2ffe5660033">
 *.cub 파일에는 먼저 벽에 사용할 xpm 이미지 경로를 넣습니다.
 동,서,남,북의 순서는 상관 없으며, 경로를 상대경로로 넣을 시엔 실행파일 기준으로 합니다.
 C,F는 천장과 바닥에 적용할 색의 RGB 값이며 0~255 사이값이 ',' 기호로 구분합니다.
   </p>
 2. 적용하고 싶은 이미지가 따로 있을 시, .xpm 이미지로 변경해야합니다.
-<img width="956" alt="스크린샷 2024-01-30 오후 5 42 25" src="https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/dc54fa07-a7b0-4ed3-8ab2-6af569987f88">
+   <p align="center">
+    <img width="956" alt="스크린샷 2024-01-30 오후 5 42 25" src="https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/22c0c40d-ef12-4272-b184-889866c27411">
+   </p>
