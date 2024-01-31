@@ -1,5 +1,8 @@
 # 🎮 그래픽스: 레이캐스팅 엔진(Raycastiong engine) 만들기  / myRaycaster
 <p align="center">
+![화면-기록-2024-01-30-오후-5 51 44-7 (2) (2)-min](https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/52c52d25-cb28-42cc-bcc5-05f2ce1e94e9)
+
+ 
 <img width="1509" alt="스크린샷 2024-01-30 오후 7 11 14" src="https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/541a461b-5b0c-4580-8f0e-16ba7439f995">
 <img width="1509" alt="스크린샷 2024-01-30 오후 7 11 14" src="https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/3d34a48b-c5f1-4f84-ae05-dce534d9572a">
 <img width="1509" alt="스크린샷 2024-01-30 오후 7 11 14" src="https://github.com/Elineely/Raycasting-engine-in-C/assets/80635378/de90c4f3-e122-4aac-a0b9-0f65f945b506">
