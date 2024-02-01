@@ -30,7 +30,7 @@ git clone https://github.com/Elineely/Raycasting-engine-in-C.git
 ```
 2. clone 한 폴더에 들어갑니다.
 ```
-cd Raycasting-engine-in-C
+cd RaycastingEngine
 ```
 3. makefile을 실행시켜 컴파일 합니다.
 ```
